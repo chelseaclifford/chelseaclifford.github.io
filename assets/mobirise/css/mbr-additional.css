@@ -2191,6 +2191,89 @@ body {
 .cid-qMl2OfloLL .dropdown-item:hover {
   color: #4b8c71 !important;
 }
+.cid-qOuUuuFXle {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/p1080009-1280x960.jpg");
+}
+.cid-qOuUuuFXle H1 {
+  color: #6f8ab7;
+}
+.cid-qOuUuuFXle P {
+  color: #acedff;
+}
+.cid-qOuUuuFXle H3 {
+  color: #ffffff;
+}
+.cid-qOuYyOksJg {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/unadjustednonraw-thumb-9a7-760x1034.jpg");
+}
+.cid-qOuYyOksJg p {
+  color: #767676;
+}
+.cid-qOuYyOksJg .mbr-section-subtitle {
+  color: #9cc693;
+  text-align: left;
+}
+.cid-qOuYyOksJg .accordion-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-qOuYyOksJg .panel-group {
+  width: 100%;
+}
+.cid-qOuYyOksJg .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-qOuYyOksJg .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-qOuYyOksJg .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-qOuYyOksJg .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-qOuYyOksJg .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-qOuYyOksJg .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-qOuYyOksJg .mbr-figure {
+  -webkit-align-self: flex-start;
+  align-self: flex-start;
+  padding-left: 4rem;
+}
+@media (max-width: 991px) {
+  .cid-qOuYyOksJg .mbr-figure {
+    padding-right: 0;
+    padding-left: 0;
+    padding-top: 2rem;
+  }
+}
+.cid-qOuYyOksJg H2 {
+  color: #acedff;
+}
+.cid-qOuYyOksJg H4 {
+  color: #89bbfe;
+}
+.cid-qOuYyOksJg .panel-text {
+  color: #ffffff;
+}
 .cid-qMl2OfloLL .navbar {
   background: #efefef;
   transition: none;
@@ -3492,4 +3575,15 @@ body {
 .cid-qMl2OfloLL .nav-link:hover,
 .cid-qMl2OfloLL .dropdown-item:hover {
   color: #4b8c71 !important;
+}
+.cid-qOv7OQguhW {
+  padding-top: 105px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/hands2-2000x1339.jpg");
+}
+.cid-qOv7OQguhW H3 {
+  color: #ffffff;
+}
+.cid-qOv7OQguhW P {
+  color: #ffffff;
 }

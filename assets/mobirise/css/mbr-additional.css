@@ -2205,6 +2205,27 @@ body {
 .cid-qOuUuuFXle H3 {
   color: #ffffff;
 }
+.cid-r16yPyYEMM {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #149dcc;
+  background: linear-gradient(45deg, #149dcc, #000000);
+}
+@media (min-width: 992px) {
+  .cid-r16yPyYEMM .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-r16yPyYEMM .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-r16yPyYEMM .mbr-text {
+    text-align: center;
+  }
+}
 .cid-qSHrR0vvs2 {
   padding-top: 90px;
   padding-bottom: 90px;

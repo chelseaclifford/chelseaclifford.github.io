@@ -2201,24 +2201,63 @@ body {
   color: #4b8c71 !important;
 }
 .cid-qOuUuuFXle {
-  padding-top: 90px;
+  padding-top: 135px;
   padding-bottom: 30px;
   background-image: url("../../../assets/images/p1080009-1280x960.jpg");
 }
 .cid-qOuUuuFXle H1 {
-  color: #6f8ab7;
-}
-.cid-qOuUuuFXle P {
-  color: #acedff;
-}
-.cid-qOuUuuFXle H3 {
   color: #ffffff;
 }
+.cid-qOuUuuFXle P {
+  color: #efefef;
+  text-align: left;
+}
+.cid-qOuUuuFXle H3 {
+  color: #acedff;
+  text-align: left;
+}
+.cid-rO9VAj7X3w {
+  padding-top: 15px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/img-6359-2000x1497.jpg");
+}
+.cid-rO9VAj7X3w H2 {
+  text-align: center;
+  color: #cccccc;
+}
+.cid-rO9VAj7X3w .mbr-text,
+.cid-rO9VAj7X3w .mbr-section-btn {
+  text-align: left;
+  color: #a09fc0;
+}
+.cid-rO9VAj7X3w H3 {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-rO9Houod8o {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(45deg, #333333, #000000);
+}
+@media (min-width: 992px) {
+  .cid-rO9Houod8o .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rO9Houod8o .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-rO9Houod8o .mbr-text,
+.cid-rO9Houod8o .mbr-section-btn {
+  text-align: left;
+}
 .cid-r16yPyYEMM {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 15px;
+  padding-bottom: 30px;
   background-color: #000000;
-  background: linear-gradient(45deg, #000000, #acedff);
+  background: linear-gradient(45deg, #000000, #6f8ab7);
 }
 @media (min-width: 992px) {
   .cid-r16yPyYEMM .mbr-figure {
@@ -2236,7 +2275,11 @@ body {
   }
 }
 .cid-r16yPyYEMM H1 {
-  color: #000000;
+  color: #ffffff;
+}
+.cid-r16yPyYEMM .mbr-text,
+.cid-r16yPyYEMM .mbr-section-btn {
+  color: #89bbfe;
 }
 .cid-qOuYyOksJg {
   padding-top: 0px;
@@ -2714,7 +2757,7 @@ body {
   color: #ffffff;
 }
 .cid-qOtjHBOENh H3 {
-  color: #ffffff;
+  color: #efefef;
 }
 .cid-qOtXYHvHmb {
   padding-top: 0px;
@@ -2736,6 +2779,7 @@ body {
 }
 .cid-qOtXYHvHmb H2 {
   text-align: right;
+  color: #efefef;
 }
 .cid-qOtZVpD0EI {
   padding-top: 30px;
@@ -2784,6 +2828,7 @@ body {
 }
 .cid-qOtV5oipob .mbr-section-title {
   text-align: left;
+  color: #cccccc;
 }
 .cid-qMl2OfloLL .navbar {
   background: #efefef;
@@ -3173,6 +3218,7 @@ body {
 }
 .cid-qOv7OQguhW H3 {
   color: #ffffff;
+  text-align: center;
 }
 .cid-qOv7OQguhW P {
   color: #ffffff;

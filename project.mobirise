@@ -3,7 +3,7 @@
     "name": "chelseaclifford.science",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 64,
+    "uniqCompNum": 66,
     "versionPublish": "4.8.10",
     "theme": {
       "name": "mobirise4",
@@ -3049,26 +3049,25 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "postToLoad": "5",
+            "postToLoad": 3,
             "facebookToken": "",
             "facebook": "",
             "twitter": "DitchOntologist",
             "youtube": "",
             "bgColorRadio": true,
-            "bgColor": "#89bbfe",
+            "bgColor": "#acedff",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "overlay": true,
             "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.6,
-            "google": ""
+            "overlayOpacity": 0.6
           },
           "alias": "social-feed",
           "_tags": [
             "Extension"
           ],
           "_name": "feed",
-          "_anchor": "feed-1r"
+          "_anchor": "feed-1t"
         }
       ]
     }

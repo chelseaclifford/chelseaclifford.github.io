@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "chelseaclifford.science",
-    "currentPage": "research.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 62,
+    "uniqCompNum": 64,
     "versionPublish": "4.8.10",
     "theme": {
       "name": "mobirise4",
@@ -3043,6 +3043,32 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "postToLoad": "5",
+            "facebookToken": "",
+            "facebook": "",
+            "twitter": "DitchOntologist",
+            "youtube": "",
+            "bgColorRadio": true,
+            "bgColor": "#89bbfe",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6,
+            "google": ""
+          },
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-1r"
         }
       ]
     }

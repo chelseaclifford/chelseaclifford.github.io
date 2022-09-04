@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "chelseaclifford.science",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 80,
     "versionPublish": "5.6.5",
@@ -68,7 +68,7 @@
       }
     ],
     "imageResize": true,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "mbrsiteDomain": "baouqe8xpp",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,

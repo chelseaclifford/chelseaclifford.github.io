@@ -1032,7 +1032,7 @@ section.lazy-placeholder:after {
 .cid-qOui4DUTLD {
   padding-top: 15px;
   padding-bottom: 45px;
-  background-color: #89bbfe;
+  background-color: #acedff;
 }
 .cid-qOui4DUTLD p {
   color: #767676;
@@ -1095,6 +1095,85 @@ section.lazy-placeholder:after {
 .cid-qOui4DUTLD H4 {
   color: #000000;
   text-align: left;
+}
+.cid-v0z9ob7HPr {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background-color: #acedff;
+}
+.cid-v0z9ob7HPr p {
+  color: #767676;
+}
+.cid-v0z9ob7HPr .mbr-section-subtitle {
+  color: #000000;
+  text-align: left;
+}
+.cid-v0z9ob7HPr .accordion-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-v0z9ob7HPr .panel-group {
+  width: 100%;
+}
+.cid-v0z9ob7HPr .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-v0z9ob7HPr .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-v0z9ob7HPr .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-v0z9ob7HPr .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-v0z9ob7HPr .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-v0z9ob7HPr .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-v0z9ob7HPr .mbr-figure {
+  -webkit-align-self: flex-start;
+  align-self: flex-start;
+  padding-left: 4rem;
+}
+@media (max-width: 991px) {
+  .cid-v0z9ob7HPr .mbr-figure {
+    padding-right: 0;
+    padding-left: 0;
+    padding-top: 2rem;
+  }
+}
+.cid-v0z9ob7HPr .panel-text {
+  color: #000000;
+}
+.cid-v0z9ob7HPr H4 {
+  color: #000000;
+  text-align: left;
+}
+.cid-v0z4DY3Ci3 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-v0z4DY3Ci3 .mbr-section-subtitle {
+  color: #6f8ab7;
+  text-align: center;
+}
+.cid-v0z4DY3Ci3 .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-qOuAHz6lqL {
   padding-top: 30px;

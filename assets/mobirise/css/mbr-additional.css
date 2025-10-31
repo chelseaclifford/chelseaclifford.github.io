@@ -1686,11 +1686,24 @@ section.lazy-placeholder:after {
 }
 .cid-v0v5Km4iRC H1 {
   color: #acedff;
+  text-align: center;
 }
 .cid-v0v5Km4iRC .mbr-text,
 .cid-v0v5Km4iRC .mbr-section-btn {
   color: #000000;
-  text-align: justify;
+  text-align: left;
+}
+.cid-v1eo3DpjJP {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #6f8ab7;
+}
+.cid-v1eo3DpjJP iframe {
+  margin-left: auto;
+  margin-right: auto;
+}
+.cid-v1eo3DpjJP .container-fluid {
+  padding: 0;
 }
 .cid-v0vemdrIhh {
   padding-top: 60px;
